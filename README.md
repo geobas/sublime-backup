@@ -2,10 +2,9 @@
 
 You can download Sublime from [http://sublimetext.com](http://sublimetext.com)
 
-![alt text](https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=http%3A%2F%2Fi1-linux.softpedia-static.com%2Fscreenshots%2FSublime-Text_3.png&sp=a4e1b0ecd330e7711032ae44e5334510 "Sublime Text 3")
+![alt text](http://i1-linux.softpedia-static.com/screenshots/Sublime-Text_3.png "Sublime Text 3")
 
-> I made this repo for myself, so I have an easy way to back them up :)
-Feel free to submit any pull requests suggesting cool new settings or things I may not be aware of.
+> I made this repo for myself, so I have an easy way to back them up :) Feel free to submit any pull requests suggesting cool new settings or things I may not be aware of.
 
 ## Install
 
