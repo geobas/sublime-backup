@@ -1,0 +1,13 @@
+#ignore these
+Backup/
+Cache/
+Index/
+Installed Packages/.directory
+Installed Packages/PyV8/
+Local/
+Packages/.directory
+Packages/PyV8/
+Packages/backrefs/
+Packages/bz2/
+Packages/ssl-linux/
+.directory
