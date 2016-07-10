@@ -12,8 +12,11 @@ Go to your sublime home folder
 ```
 cd ~/.config/sublime-text-3
 ```
-and type `git clone git@github.com:geobas/sublime-backup.git`
+type `git clone git@github.com:geobas/sublime-backup.git` and
 
+```
+cd sublime-backup/ && cp -rf . ../ && cd .. && rm -rf sublime-backup/
+```
 ---
 
 ## Packages
