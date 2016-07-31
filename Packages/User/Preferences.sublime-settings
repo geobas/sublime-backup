@@ -6,5 +6,7 @@
 		"Vintage"
 	],
 	"tab_completion": true,
-	"theme": "Agila Monokai.sublime-theme"
+	"theme": "Agila Monokai.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }

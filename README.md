@@ -38,3 +38,6 @@ cd sublime-backup/ && cp -rf . ../ && cd .. && rm -rf sublime-backup/
 * Grunt
 * HTML Nest Comments
 * Inc-Dec-Value
+* Git
+* Git Gutter
+* MarkdownPreview
