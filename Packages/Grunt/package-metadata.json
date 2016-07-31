@@ -1,0 +1,1 @@
+{"description": "A Grunt task runner for Sublime Text", "dependencies": [], "platforms": ["*"], "sublime_text": "*", "version": "1.0.4", "url": "https://github.com/tvooo/sublime-grunt"}

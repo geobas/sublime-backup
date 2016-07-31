@@ -32,3 +32,9 @@ cd sublime-backup/ && cp -rf . ../ && cd .. && rm -rf sublime-backup/
 * AngularJS
 * Color Highlighter
 * BracketHighlighter
+* AutoSemiColon
+* AutoFileName
+* Apache​Conf.​tm​Language
+* Grunt
+* HTML Nest Comments
+* Inc-Dec-Value
