@@ -41,3 +41,7 @@ cd sublime-backup/ && cp -rf . ../ && cd .. && rm -rf sublime-backup/
 * Git
 * Git Gutter
 * MarkdownPreview
+* PHP-Twig
+* jQuery
+* JSLint
+* Javascript Beautify
