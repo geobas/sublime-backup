@@ -1,0 +1,9 @@
+{
+    // Maximum amount of array children
+    // and object's properties to return.
+    "max_children": 5,
+
+    // Maximum amount of nested levels to retrieve
+    // of array elements and object properties.
+    "max_depth": 5
+}

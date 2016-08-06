@@ -19,18 +19,15 @@ cd sublime-backup/ && cp -rf . ../ && cd .. && rm -rf sublime-backup/
 ```
 ---
 
-| Packages | |
-| ------------- |:-------------:|
-| SideBarEnhancements | AutoSemiColon |
-| ReadmePlease | AutoFileName |
-| Alignment | Apache​Conf.​tm​Language |
-| Emmet | Grunt |
-| DocBlockr | HTML Nest Comments |
-| PHPUnit Completions | Inc-Dec-Value |
-| Agila Theme | Git |
+| Packages | | |
+| ------------- |:-------------:|:-------------:|
+| SideBarEnhancements | AutoSemiColon | AngularJS |
+| ReadmePlease | AutoFileName | jQuery |
+| Alignment | Apache​Conf.​tm​Language | BracketHighlighter |
+| Emmet | Grunt | JSLint |
+| DocBlockr | HTML Nest Comments | Javascript Beautify |
+| PHPUnit Completions | Inc-Dec-Value | Jasmine JS |
+| Agila Theme | Git | Xdebug Client |
 | Indent XML | Git Gutter |
 | 1337 Color Scheme | MarkdownPreview |
 | Color Highlighter | PHP-Twig |
-| AngularJS | jQuery |
-| BracketHighlighter | JSLint |
-| Javascript Beautify | |
