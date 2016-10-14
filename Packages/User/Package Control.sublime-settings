@@ -27,10 +27,12 @@
 		"jQuery",
 		"JSLint",
 		"Markdown Preview",
+		"MongoDB - PHP Completions",
 		"Package Control",
 		"PHP-Twig",
 		"PHPUnit Completions",
 		"ReadmePlease",
+		"Restart",
 		"SideBarEnhancements",
 		"Xdebug Client"
 	]

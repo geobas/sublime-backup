@@ -28,6 +28,6 @@ cd sublime-backup/ && cp -rf . ../ && cd .. && rm -rf sublime-backup/
 | DocBlockr | HTML Nest Comments | Javascript Beautify |
 | PHPUnit Completions | Inc-Dec-Value | Jasmine JS |
 | Agila Theme | Git | Xdebug Client |
-| Indent XML | Git Gutter |
-| 1337 Color Scheme | MarkdownPreview |
+| Indent XML | Git Gutter | Mongo​DB - PHP Completions |
+| 1337 Color Scheme | MarkdownPreview | Restart |
 | Color Highlighter | PHP-Twig |
