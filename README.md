@@ -30,4 +30,4 @@ cd sublime-backup/ && cp -rf . ../ && cd .. && rm -rf sublime-backup/
 | Agila Theme | Git | Xdebug Client |
 | Indent XML | Git Gutter | Mongo​DB - PHP Completions |
 | 1337 Color Scheme | MarkdownPreview | Restart |
-| Color Highlighter | PHP-Twig |
+| Color Highlighter | PHP-Twig | React​JS |
