@@ -19,9 +19,9 @@ cd sublime-backup/ && cp -rf . ../ && cd .. && rm -rf sublime-backup/
 ```
 ---
 
-| Packages | | |
-| ------------- |:-------------:|:-------------:|
-| SideBarEnhancements | AutoSemiColon | AngularJS |
+| Packages | | | |
+| ------------- |:-------------:|:-------------:|:-------------:|
+| SideBarEnhancements | AutoSemiColon | AngularJS | Status Bar File Size |
 | ReadmePlease | AutoFileName | jQuery |
 | Alignment | Apache​Conf.​tm​Language | BracketHighlighter |
 | Emmet | Grunt | JSLint |

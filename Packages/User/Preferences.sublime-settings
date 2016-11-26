@@ -5,9 +5,9 @@
 	[
 		"Vintage"
 	],
+	"show_encoding": true,
 	"tab_completion": true,
 	"theme": "Agila Monokai.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"show_encoding": true
+	"word_wrap": true
 }
