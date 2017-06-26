@@ -24,7 +24,7 @@ cd sublime-backup/ && cp -rf . ../ && cd .. && rm -rf sublime-backup/
 | SideBarEnhancements | AutoSemiColon | AngularJS | Status Bar File Size |
 | ReadmePlease | AutoFileName | jQuery | Bootstrap 3 Autocomplete |
 | Alignment | Apache​Conf.​tm​Language | BracketHighlighter | Simple JSX |
-| Emmet | Grunt | JSLint |
+| Emmet | Grunt | JSLint | Terminal​View |
 | DocBlockr | HTML Nest Comments | Javascript Beautify |
 | PHPUnit Completions | Inc-Dec-Value | Jasmine JS |
 | Agila Theme | Git | Xdebug Client |
